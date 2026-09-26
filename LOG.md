@@ -1,4 +1,4 @@
-# Questions raised in MIT 9.13 lectures. 
+# LOG
 
 ## 2026-09-26
 - Set up this notebook.
